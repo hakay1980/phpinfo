@@ -16,3 +16,4 @@ const NAME = "oshomuwe abdulkareem";
 echo  NAME;
 
 */
+?>
